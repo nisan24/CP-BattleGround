@@ -1,12 +1,12 @@
 /*
  * -------------------------------------------------
- *  Problem Link : http://codeforces.com/problemset/problem/69/A
- *  Problem Name : A. Young Physicist
+ *  Problem Link : https://codeforces.com/problemset/problem/263/A
+ *  Problem Name : A. Beautiful Matrix
  *  Author       : Nisan Hossain
- *	Created At   : 2025-03-24 00:26:46
+ *	Created At   : 2025-03-24 00:21:44
  *  Language     : C++
  * -------------------------------------------------
- * time complexity : O(N)
+ * time complexity : O(1)
  * space complexity : O(1)
  * -------------------------------------------------
  */
@@ -36,27 +36,18 @@ using namespace std;
 // ---------- Solve Function ----------
 void solve()
 {
-    int n;
-    cin >> n;
-
-    int a = 0, b = 0, c = 0;
-
-    for (int i = 0; i < n; i++)
+    int arr[5][5];
+    for (int i = 0; i < 5; i++)
     {
-        int x, y, z;
-        cin >> x >> y >> z;
-        a += x;
-        b += y;
-        c += z;
-    }
-
-    if (a == 0 && b == 0 && c == 0)
-    {
-        cout << "YES\n";
-    }
-    else
-    {
-        cout << "NO\n";
+        for (int j = 0; j < 5; j++)
+        {
+            cin >> arr[i][j];
+            if (arr[i][j] == 1)
+            {
+                cout << abs(i - 2) + abs(j - 2) << nl;
+                return;
+            }
+        }
     }
 }
 
@@ -69,7 +60,6 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
-
 
 /*
  * ---------------------------------------------------
