@@ -1,0 +1,77 @@
+# Compiler-generated files (C, C++, Java, etc.)
+*.exe
+*.out
+*.obj
+*.o
+*.a
+*.so
+*.dll
+*.class
+*.jar
+
+# 🛠️ VS Code & CLion specific files
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.cbp
+*.dev
+
+# Ignore Codeforces Problem Helper files
+*.cph
+
+
+# ⚙️ Build system files (CMake, Makefile, Gradle, etc.)
+CMakeLists.txt
+/build/
+*.cmake
+*.ninja
+Makefile
+*.mk
+
+# 📝 Logs & Debugging Files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.cache
+*.stackdump
+*.dmp
+
+# 🔍 Python cache & environment files
+*.pyc
+*.pyo
+__pycache__/
+*.ipynb_checkpoints
+venv/
+env/
+Pipfile
+Pipfile.lock
+
+# 📂 Hidden system files (Windows, macOS, Linux)
+.DS_Store
+Thumbs.db
+*.~lock
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# 🛠️ JetBrains / IntelliJ / CLion files
+*.idea/
+*.ipr
+*.iws
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ⚡ Competitive Programming Backup/Generated Files
+*.test
+*.expected
+*.result
+*.diff
+*.input
+*.output
