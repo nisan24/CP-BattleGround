@@ -44,7 +44,6 @@ void solve()
     // cout << ans << nl;
     ll ans2 = (a * b * c * d) % 100;
     cout << ans2 << nl;
-     
 }
 
 // ---------- Main Function ----------
