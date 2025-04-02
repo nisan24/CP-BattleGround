@@ -38,9 +38,12 @@ void solve()
     int n;
     cin >> n;
 
-    if(isprime(n)){
+    if(isprime(n))
+    {
         yes;
-    }else{
+    }
+    else
+    {
         no;
     }
 
@@ -55,6 +58,7 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
+
 
 
 // Accepted
