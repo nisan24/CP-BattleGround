@@ -1,10 +1,10 @@
 /*
  * -------------------------------------------------
- *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
- *  Problem Name : Y. The last 2 digits
+ *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
+ *  Problem Name : H. One Prime
  * Problem Type : implementation
  *  Author       : Nisan Hossain
- *	Created At   : 2025-04-01 20:30:36
+ *	Created At   : 2025-04-02 22:17:46
  *  Language     : C++
  * -------------------------------------------------
  */
@@ -35,16 +35,15 @@ int isprime(int n){if(n==1) return 0;for(int i = 2; i <= sqrt(n); i++){if(n % i 
 // ---------- Solve Function ----------
 void solve()
 {
-    ll a, b, c, d;
-    cin >> a >> b >> c >> d;
-    a = a % 100;
-    b = b % 100;
-    c = c % 100;
-    d = d % 100;
-    ll ans = (a * b * c * d) % 10;
-    // cout << ans << nl;
-    ll ans2 = ((a * b * c * d) / 10)% 10;
-    cout << ans2 << ans << nl;
+    int n;
+    cin >> n;
+
+    if(isprime(n)){
+        yes;
+    }else{
+        no;
+    }
+
 }
 
 // ---------- Main Function ----------
@@ -56,5 +55,6 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
+
 
 // Accepted
