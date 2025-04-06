@@ -1,10 +1,10 @@
 /*
  * -------------------------------------------------
- *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O
- *  Problem Name : O_Pyramid
+ *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P
+ *  Problem Name : P_Shape1
  *  Problem Type : Implementation
  *  Author       : Nisan Hossain
- *	Created At   : 2025-04-05 22:28:52
+ *	Created At   : 2025-04-06 21:14:38
  *  Language     : C++
  * -------------------------------------------------
  */
@@ -37,11 +37,10 @@ void solve()
 {
     int n;
     cin >> n;
-    for (int i = 1; i <= n; i++)
+    for(int i = n; i >= 0; i--)
     {
         cout << string(i, '*') << nl;
     }
-    
 }
 
 // ---------- Main Function ----------
