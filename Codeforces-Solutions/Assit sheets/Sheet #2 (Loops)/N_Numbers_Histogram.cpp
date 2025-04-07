@@ -1,10 +1,10 @@
 /*
  * -------------------------------------------------
- *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J
- *  Problem Name : J. Primes form 1 to n
- *  Problem Type : implementation
+ *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N
+ *  Problem Name : N Numbers Histogram
+ *  Problem Type : Implementation
  *  Author       : Nisan Hossain
- *	Created At   : 2025-04-03 21:59:08
+ *	Created At   : 2025-04-07 22:12:29
  *  Language     : C++
  * -------------------------------------------------
  */
@@ -35,14 +35,16 @@ int isprime(int n){if(n==1) return 0;for(int i = 2; i <= sqrt(n); i++){if(n % i 
 // ---------- Solve Function ----------
 void solve()
 {
+    char ch;
     int n;
-    cin >> n;
-    for(int i = 1; i <= n; i++){
-        if(isprime(i)){
-            cout << i << " ";
-        }
+    cin >> ch >> n;
+
+    while(n--)
+    {
+        int x;
+        cin >> x;
+        cout << string(x, ch) << nl;
     }
-    cout << nl;
 
 }
 
