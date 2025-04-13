@@ -27,23 +27,34 @@ using namespace std;
 #define allsum(v) accumulate(v.begin(), v.end(), 0LL)
 #define fast_io                  \
     ios::sync_with_stdio(false); \
-    cin.tie(NULL); 			  \
+    cin.tie(NULL);               \
     cout.tie(NULL)
 
-int isprime(int n){if(n==1) return 0;for(int i = 2; i <= sqrt(n); i++){if(n % i == 0)return 0;}return 1;}
+int isprime(int n)
+{
+    if (n == 1)
+        return 0;
+    for (int i = 2; i <= sqrt(n); i++)
+    {
+        if (n % i == 0)
+            return 0;
+    }
+    return 1;
+}
 
 // ---------- Solve Function ----------
 void solve()
 {
     int n;
     cin >> n;
-    for(int i = 1; i <= n; i++){
-        if(isprime(i)){
+    for (int i = 1; i <= n; i++)
+    {
+        if (isprime(i))
+        {
             cout << i << " ";
         }
     }
     cout << nl;
-
 }
 
 // ---------- Main Function ----------
@@ -55,6 +66,5 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
-
 
 // Accepted
