@@ -26,16 +26,28 @@ using namespace std;
 #define allsum(v) accumulate(v.begin(), v.end(), 0LL)
 #define fast_io                  \
     ios::sync_with_stdio(false); \
-    cin.tie(NULL); 			  \
+    cin.tie(NULL);               \
     cout.tie(NULL)
 
-int isprime(int n){if(n==1) return 0;for(int i = 2; i <= sqrt(n); i++){if(n % i == 0)return 0;}return 1;}
+int isprime(int n)
+{
+    if (n == 1)
+        return 0;
+    for (int i = 2; i <= sqrt(n); i++)
+    {
+        if (n % i == 0)
+            return 0;
+    }
+    return 1;
+}
 
-
-bool isLucky(int n) {
-    while (n > 0) {
+bool isLucky(int n)
+{
+    while (n > 0)
+    {
         int digit = n % 10;
-        if (digit != 4 && digit != 7) {
+        if (digit != 4 && digit != 7)
+        {
             return false;
         }
         n /= 10;
@@ -51,17 +63,19 @@ void solve()
     ll start = min(a, b);
     ll end = max(a, b);
     bool found = false;
-    for (ll i = start; i <= end; i++) {
-        if (isLucky(i)) {
+    for (ll i = start; i <= end; i++)
+    {
+        if (isLucky(i))
+        {
             cout << i << " ";
             found = true;
         }
     }
 
-    if (!found) {
+    if (!found)
+    {
         cout << -1 << nl;
     }
-
 }
 
 // ---------- Main Function ----------
@@ -73,3 +87,5 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
+
+// Accepted
