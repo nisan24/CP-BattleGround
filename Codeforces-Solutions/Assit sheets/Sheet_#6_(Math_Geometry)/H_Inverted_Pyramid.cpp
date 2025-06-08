@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H
+ *  Problem Name : H. Inverted Pyramid
  *  Author       : Nisan Hossain
  *	Created At   : 2025-06-08 22:18:19
  *  Language     : C++
@@ -71,3 +71,8 @@ int32_t main(int argc, char const *argv[])
     
     return 0;
 }
+
+
+
+// Accepted
+// ---------- End of Code ----------
