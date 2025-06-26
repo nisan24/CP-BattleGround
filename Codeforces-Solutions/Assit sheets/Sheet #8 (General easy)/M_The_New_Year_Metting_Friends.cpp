@@ -1,9 +1,9 @@
 /*
  * -------------------------------------------------
- *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/G
- *  Problem Name : G. Max and Min
+ *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/M
+ *  Problem Name : The New Year Meeting Friends
  *  Author       : Nisan Hossain
- *	Created At   : 2025-05-13 21:25:55
+ *	Created At   : 2025-06-26 21:48:56
  *  Language     : C++
  * -------------------------------------------------
  */
@@ -19,6 +19,7 @@ using namespace std;
 #define nnl cout << "\n"
 #define yes cout << "YES\n"
 #define no cout << "NO\n"
+#define setPrec(x) fixed << setprecision(x)
 #define srt(v) sort(v.begin(), v.end())
 #define rsrt(v) sort(v.rbegin(), v.rend())
 #define rev(v) reverse(v.begin(), v.end())
@@ -34,17 +35,14 @@ int isprime(int n){if(n==1) return 0;for(int i = 2; i <= sqrt(n); i++){if(n % i 
 // ---------- Solve Function ----------
 void solve()
 {
-    int n;
-    cin >> n;
-    vi ar(n);
-    for (int i = 0; i < n; i++)
-    {
-        cin >> ar[i];
-    }
-    srt(ar);
-    int mx = ar[n - 1];
-    int mn = ar[0];
-    cout << mn << " " << mx << nl;
+    int a, b, c;
+    cin >> a >> b >> c;
+
+    int mx = max({a, b, c});
+    int mn = min({a, b, c});
+
+    cout << mx - mn << nl;
+
 }
 
 // ---------- Main Function ----------
@@ -56,6 +54,7 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
+
 
 // Accepted
 // ---------- End of Code ----------
