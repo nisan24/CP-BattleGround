@@ -89,6 +89,7 @@ void main() {
 String greetUser(String name, int age) {
   return "Hello, $name! You are $age years old.";
 }
+
 // ✅ Function with optional parameters
 String greetUserOptional(String name, [int? age]) {
   if (age != null) {
@@ -97,6 +98,7 @@ String greetUserOptional(String name, [int? age]) {
     return "Hello, $name!";
   }
 }
+
 // ✅ Function with named parameters
 String greetUserNamed({required String name, int? age}) {
   if (age != null) {
@@ -105,32 +107,39 @@ String greetUserNamed({required String name, int? age}) {
     return "Hello, $name!";
   }
 }
+
 // ✅ Function with default parameters
 String greetUserDefault({String name = "Guest", int age = 18}) {
   return "Hello, $name! You are $age years old.";
 }
+
 // ✅ Function with return type
 String add(int a, int b) {
   return "The sum of $a and $b is ${a + b}.";
 }
+
 // ✅ Function with void return type
 void printMessage(String message) {
   print("Message: $message");
 }
+
 // ✅ Function with dynamic return type
 dynamic getValue() {
   return "This can be anything!";
 }
+
 // ✅ Function with type inference
 void printList(List<String> items) {
   for (var item in items) {
     print("Item: $item");
   }
 }
+
 // ✅ Function with generic type
 T genericFunction<T>(T value) {
   return value;
 }
+
 // ✅ Function with async and await
 Future<String> fetchData() async {
   await Future.delayed(Duration(seconds: 2)); // Simulate network delay
