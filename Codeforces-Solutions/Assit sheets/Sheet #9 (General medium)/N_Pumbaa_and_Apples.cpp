@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
+ *  Problem Link : http://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/N
  *  Problem Name :  
  *  Author       : Nisan Hossain
  *	Created At   : 2025-07-26 22:32:46
@@ -58,7 +58,7 @@ void solve()
     for (int i = 1; i <= m; i++)
         colMap[i] = i;
 
-        
+
     while (q--)
     {
         char type;
