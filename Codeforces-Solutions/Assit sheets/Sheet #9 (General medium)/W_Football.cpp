@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/W
+ *  Problem Name : W. Football
  *  Author       : Nisan Hossain
  *	Created At   : 2025-07-27 21:37:05
  *  Language     : C++
