@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/V
- *  Problem Name :
+ *  Problem Name : V_Balanced_Rating_Changes
  *  Author       : Nisan Hossain
  *	Created At   : 2025-07-29 21:57:56
  *  Language     : C++
