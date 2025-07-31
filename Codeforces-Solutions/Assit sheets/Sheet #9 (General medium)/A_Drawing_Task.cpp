@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A
- *  Problem Name :
+ *  Problem Name : A. Drawing Task
  *  Author       : Nisan Hossain
  *	Created At   : 2025-07-31 22:05:12
  *  Language     : C++
