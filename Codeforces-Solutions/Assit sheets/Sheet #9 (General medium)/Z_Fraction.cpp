@@ -3,7 +3,7 @@
  *  Problem Link : 
  *  Problem Name :  
  *  Author       : Nisan Hossain
- *	Created At   : 2025-08-02 21:33:43
+ *	Created At   : 2025-08-03 20:29:59
  *  Language     : C++
  * -------------------------------------------------
  */
@@ -32,41 +32,32 @@ using namespace std;
 
 int isprime(int n){if(n==1) return 0;for(int i = 2; i <= sqrt(n); i++){if(n % i == 0)return 0;}return 1;}
 
+int GCD(int a, int b)
+{
+    return b == 0 ? a : GCD(b, a % b);
+}
+
+int LCM(int a, int b)
+{
+    return (a / GCD(a, b)) * b;
+}
+
 // ---------- Solve Function ----------
 void solve()
 {
-    int n, k;
-    cin >> n >> k;
+    string f1, f2;
+    cin >> f1 >> f2;
 
-    int sz = 2 * n + 1;
-    vector<int> height(sz);
+    int pos1 = f1.find('/');
+    int num1 = stoi(f1.substr(0, pos1));  
+    int den1 = stoi(f1.substr(pos1 + 1)); 
 
-    for (int i = 0; i < sz; ++i)
-    {
-        cin >> height[i];
-    }
+    int pos2 = f2.find('/');
+    int num2 = stoi(f2.substr(0, pos2));
+    int den2 = stoi(f2.substr(pos2 + 1));
 
-    int count = 0;
-
-    for (int i = 1; i < sz - 1; ++i)
-    {
-        if (height[i] > height[i - 1] + 1 && height[i] > height[i + 1] + 1)
-        {
-            height[i]--; 
-            count++;
-
-            if (count == k)
-                break; 
-        }
-    }
-
-    for (int val : height)
-    {
-        cout << val << " ";
-    }
-    nnl;
-    
-}
+    cout << LCM(num1, num2) << '/' << GCD(den1, den2) << nl;
+  }
 
 // ---------- Main Function ----------
 int32_t main(int argc, char const *argv[])
