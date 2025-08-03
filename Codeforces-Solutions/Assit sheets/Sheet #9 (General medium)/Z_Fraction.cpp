@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Z
- *  Problem Name :
+ *  Problem Name : Z_Fraction
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-03 20:29:59
  *  Language     : C++
