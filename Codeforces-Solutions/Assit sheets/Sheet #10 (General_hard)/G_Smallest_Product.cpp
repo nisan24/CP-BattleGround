@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/G
- *  Problem Name :  
+ *  Problem Name : Smallest_Product
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-04 23:37:02
  *  Language     : C++
