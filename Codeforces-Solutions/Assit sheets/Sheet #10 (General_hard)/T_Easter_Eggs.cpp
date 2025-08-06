@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/T
+ *  Problem Name :
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-06 22:42:28
  *  Language     : C++
