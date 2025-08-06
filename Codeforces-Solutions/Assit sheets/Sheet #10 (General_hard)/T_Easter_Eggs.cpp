@@ -59,3 +59,8 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
+
+// Multiple answers are possible, but the output should be consistent with the problem statement.
+ 
+// Accepted
+// ---------- End of Code ----------
