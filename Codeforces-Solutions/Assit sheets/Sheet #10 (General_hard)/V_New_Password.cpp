@@ -57,3 +57,8 @@ int32_t main(int argc, char const *argv[])
 
     return 0;
 }
+
+// Multiple answers are possible, but the output must be lexicographically smallest.
+
+// Accepted
+// ---------- End of Code ----------
