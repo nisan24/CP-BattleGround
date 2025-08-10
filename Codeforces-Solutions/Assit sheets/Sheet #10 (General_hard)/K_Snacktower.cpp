@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/K
- *  Problem Name :
+ *  Problem Name : K. Snacktower
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-10 23:20:34
  *  Language     : C++
