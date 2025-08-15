@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/S
- *  Problem Name :
+ *  Problem Name : S_DZY_Loves_Chessboard
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-15 22:03:47
  *  Language     : C++
