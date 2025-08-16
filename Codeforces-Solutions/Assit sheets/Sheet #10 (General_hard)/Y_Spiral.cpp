@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y
- *  Problem Name :
+ *  Problem Name : Y. Spiral
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-16 22:11:41
  *  Language     : C++
