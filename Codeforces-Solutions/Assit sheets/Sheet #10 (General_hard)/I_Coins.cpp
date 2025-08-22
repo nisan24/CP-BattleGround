@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/I
- *  Problem Name :
+ *  Problem Name : I. Coins
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-22 22:52:05
  *  Language     : C++
