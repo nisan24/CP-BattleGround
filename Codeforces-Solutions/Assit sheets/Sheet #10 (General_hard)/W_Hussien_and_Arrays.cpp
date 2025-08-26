@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/W
- *  Problem Name :
+ *  Problem Name : W. Hussien and Arrays
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-26 22:40:08
  *  Language     : C++
