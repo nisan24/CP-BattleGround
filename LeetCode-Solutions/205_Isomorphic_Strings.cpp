@@ -1,13 +1,12 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://leetcode.com/problems/isomorphic-strings/?envType=problem-list-v2&envId=string
+ *  Problem Name : 
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-29 22:34:36
  *  Language     : C++
  * -------------------------------------------------
  */
-
 
 class Solution {
 public:
