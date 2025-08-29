@@ -1,0 +1,29 @@
+/*
+ * -------------------------------------------------
+ *  Problem Link : 
+ *  Problem Name :  
+ *  Author       : Nisan Hossain
+ *	Created At   : 2025-08-29 22:34:36
+ *  Language     : C++
+ * -------------------------------------------------
+ */
+
+
+class Solution {
+public:
+    bool isIsomorphic(string s, string t) {
+        if (s.size() != t.size()) return false;
+
+        vector<int> mapS(256, 0), mapT(256, 0);
+
+        for (int i = 0; i < s.size(); i++) {
+            if (mapS[s[i]] != mapT[t[i]]) return false;
+
+            mapS[s[i]] = mapT[t[i]] = i + 1;
+        }
+
+        return true;
+    }
+};
+
+// Accepted 
