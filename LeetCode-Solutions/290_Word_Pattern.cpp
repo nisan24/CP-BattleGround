@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/word-pattern/description/?envType=problem-list-v2&envId=string
- *  Problem Name :
+ *  Problem Name : 290. Word Pattern
  *  Author       : Nisan Hossain
  *	Created At   : 2025-08-29 23:11:18
  *  Language     : C++
