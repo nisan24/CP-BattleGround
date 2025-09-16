@@ -1,4 +1,14 @@
-/**
+/*
+ * -------------------------------------------------
+ *  Problem Link : https://leetcode.com/problems/binary-search-tree-iterator/description/
+ *  Problem Name :  
+ *  Author       : Nisan Hossain
+ * Created At   : 2025-09-16 23:41:59
+ *  Language     : C++
+ * -------------------------------------------------
+ */
+
+ /**
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
