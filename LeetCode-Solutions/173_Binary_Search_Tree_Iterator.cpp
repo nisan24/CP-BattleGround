@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/binary-search-tree-iterator/description/
- *  Problem Name :  
+ *  Problem Name : 173. Binary Search Tree Iterator
  *  Author       : Nisan Hossain
  * Created At   : 2025-09-16 23:41:59
  *  Language     : C++
