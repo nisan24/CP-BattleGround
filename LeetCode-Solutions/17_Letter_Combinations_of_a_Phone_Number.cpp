@@ -8,7 +8,6 @@
  * -------------------------------------------------
  */
 
-
 class Solution {
 private:
     void backtrack(const string& digits, vector<string>& result, string& current, const vector<string>& pad, int index) {
