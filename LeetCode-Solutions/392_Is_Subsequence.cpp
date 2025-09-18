@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/is-subsequence/description/
- *  Problem Name :  
+ *  Problem Name : 392. Is Subsequence
  *  Author       : Nisan Hossain
  * Created At   : 2025-09-18 23:03:21
  *  Language     : C++
