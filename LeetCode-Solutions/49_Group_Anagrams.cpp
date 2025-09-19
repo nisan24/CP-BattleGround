@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://leetcode.com/problems/group-anagrams/description/
+ *  Problem Name : 49. Group Anagrams
  *  Author       : Nisan Hossain
  * Created At   : 2025-09-19 23:05:05
  *  Language     : C++
