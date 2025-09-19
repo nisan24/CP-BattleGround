@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/rotate-image/description/
- *  Problem Name :  
+ *  Problem Name : 48. Rotate Image
  *  Author       : Nisan Hossain
  * Created At   : 2025-09-19 22:57:10
  *  Language     : C++
