@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/subsets/description/
- *  Problem Name :  
+ *  Problem Name : 78. Subsets
  *  Author       : Nisan Hossain
  * Created At   : 2025-09-24 23:27:29
  *  Language     : C++
