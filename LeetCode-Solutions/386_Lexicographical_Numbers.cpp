@@ -8,7 +8,6 @@
  * -------------------------------------------------
  */
 
-
 class Solution {
 public:
     void dfs(int curr, int n, vector<int> &result) {
