@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
+ *  Problem Link : https://leetcode.com/problems/lexicographical-numbers/description/
  *  Problem Name :  
  *  Author       : Nisan Hossain
  * Created At   : 2025-09-29 23:25:21
