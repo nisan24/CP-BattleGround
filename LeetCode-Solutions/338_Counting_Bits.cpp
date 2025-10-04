@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/counting-bits/description/
- *  Problem Name :  
+ *  Problem Name : Counting Bits
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-04 22:40:11
  *  Language     : C++
