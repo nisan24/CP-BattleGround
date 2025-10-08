@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
- *  Problem Name :  
+ *  Problem Name : Find All Duplicates in an Array
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-08 22:11:33
  *  Language     : C++
