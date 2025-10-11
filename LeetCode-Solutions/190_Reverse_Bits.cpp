@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/reverse-bits/description/
- *  Problem Name :  
+ *  Problem Name : Reverse Bits
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-11 23:01:42
  *  Language     : C++
