@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/next-greater-element-i/description/
- *  Problem Name :  
+ *  Problem Name : Next Greater Element I
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-14 23:11:31
  *  Language     : C++
