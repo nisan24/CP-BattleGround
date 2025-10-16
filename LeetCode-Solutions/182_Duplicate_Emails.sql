@@ -1,0 +1,16 @@
+/*
+ * -------------------------------------------------
+ *  Problem Link : 
+ *  Problem Name :  
+ *  Author       : Nisan Hossain
+ * Created At   : 2025-10-16 21:42:38
+ *  Language     : C++
+ * -------------------------------------------------
+ */
+
+# Write your MySQL query statement below
+SELECT email FROM Person
+GROUP BY email
+HAVING count(email) > 1;
+
+# Accepted
