@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/hamming-distance/description/
- *  Problem Name :  
+ *  Problem Name : Hamming Distance
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-18 22:37:43
  *  Language     : C++
