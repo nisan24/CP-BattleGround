@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/array-partition/description/
- *  Problem Name :  
+ *  Problem Name : Array Partition
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-20 23:29:07
  *  Language     : C++
