@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/reverse-linked-list/description/
- *  Problem Name :  
+ *  Problem Name : Reverse Linked List
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-22 22:41:29
  *  Language     : C++
