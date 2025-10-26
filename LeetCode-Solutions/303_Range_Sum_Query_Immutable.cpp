@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://leetcode.com/problems/range-sum-query-immutable/description/
+ *  Problem Name : Range Sum Query - Immutable
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-26 19:39:53
  *  Language     : C++
