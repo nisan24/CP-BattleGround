@@ -8,7 +8,6 @@
  * -------------------------------------------------
  */
 
-
 class NumArray {
 private:
     vector<int> prefix;
