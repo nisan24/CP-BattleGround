@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/diameter-of-binary-tree/description/
- *  Problem Name :  
+ *  Problem Name : Diameter of Binary Tree
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-28 22:50:41
  *  Language     : C++
