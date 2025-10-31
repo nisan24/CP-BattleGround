@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
- *  Problem Name :  
+ *  Problem Name : 350. Intersection of Two Arrays II
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-31 20:39:06
  *  Language     : C++
