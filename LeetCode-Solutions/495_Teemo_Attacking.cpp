@@ -24,6 +24,4 @@ public:
     }
 };
 
-
-
 // Accepted
