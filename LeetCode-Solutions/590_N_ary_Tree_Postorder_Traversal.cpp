@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/
+ *  Problem Name : 590. N-ary Tree Postorder Traversal
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-06 20:09:16
  *  Language     : C++
