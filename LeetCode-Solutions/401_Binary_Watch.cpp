@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
+ *  Problem Link : https://leetcode.com/problems/binary-watch/description/
  *  Problem Name :  
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-08 23:15:36
