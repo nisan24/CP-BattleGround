@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/binary-watch/description/
- *  Problem Name :  
+ *  Problem Name : 401. Binary Watch
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-08 23:15:36
  *  Language     : C++
