@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
- *  Problem Name :  
+ *  Problem Name : 599. Minimum Index Sum of Two Lists
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-11 22:31:13
  *  Language     : C++
