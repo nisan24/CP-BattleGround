@@ -1,0 +1,17 @@
+/*
+ * -------------------------------------------------
+ *  Problem Link : 
+ *  Problem Name :  
+ *  Author       : Nisan Hossain
+ * Created At   : 2025-11-15 16:35:38
+ *  Language     : C++
+ * -------------------------------------------------
+ */
+
+
+# Write your MySQL query statement below
+UPDATE Salary
+SET sex = IF(sex = 'f', 'm', 'f');
+
+
+# Accepted
