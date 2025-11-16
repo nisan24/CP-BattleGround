@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/path-sum/description/
- *  Problem Name :  
+ *  Problem Name : 112. Path Sum
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-16 21:25:22
  *  Language     : C++
