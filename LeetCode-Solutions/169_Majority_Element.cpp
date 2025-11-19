@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/majority-element/description/
- *  Problem Name :  
+ *  Problem Name : 169. Majority Element
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-19 23:33:50
  *  Language     : C++
