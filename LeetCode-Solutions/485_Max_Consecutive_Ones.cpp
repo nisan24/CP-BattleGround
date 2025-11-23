@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/max-consecutive-ones/description/
- *  Problem Name :  
+ *  Problem Name : 485. Max Consecutive Ones
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-23 22:14:57
  *  Language     : C++
