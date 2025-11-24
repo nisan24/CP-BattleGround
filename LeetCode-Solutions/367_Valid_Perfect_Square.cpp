@@ -8,7 +8,6 @@
  * -------------------------------------------------
  */
 
-
 class Solution {
 public:
     bool isPerfectSquare(long long num) {
