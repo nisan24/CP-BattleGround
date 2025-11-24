@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/valid-perfect-square/description/
- *  Problem Name :  
+ *  Problem Name : 367. Valid Perfect Square
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-24 23:28:30
  *  Language     : C++
