@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/longest-harmonious-subsequence/description/
- *  Problem Name :  
+ *  Problem Name : 594. Longest Harmonious Subsequence
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-26 21:26:06
  *  Language     : C++
