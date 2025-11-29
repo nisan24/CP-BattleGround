@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/power-of-four/description/
- *  Problem Name :  
+ *  Problem Name : 342. Power of Four
  *  Author       : Nisan Hossain
  * Created At   : 2025-11-29 22:42:05
  *  Language     : C++
