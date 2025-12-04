@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
- *  Problem Name :  
+ *  Problem Name : 530. Minimum Absolute Difference in BST
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-04 22:38:34
  *  Language     : C++
