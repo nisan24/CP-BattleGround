@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/distribute-candies/description/
- *  Problem Name :  
+ *  Problem Name : 575. Distribute Candies
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-05 23:15:22
  *  Language     : C++
