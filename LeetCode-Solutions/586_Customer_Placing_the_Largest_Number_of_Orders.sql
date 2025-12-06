@@ -9,7 +9,6 @@
  */
 
 
-
 # Write your MySQL query statement below
 SELECT customer_number
 FROM Orders
