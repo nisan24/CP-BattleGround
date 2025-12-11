@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/binary-number-with-alternating-bits/description/
- *  Problem Name :  
+ *  Problem Name : 693. Binary Number with Alternating Bits
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-11 23:25:26
  *  Language     : C++
