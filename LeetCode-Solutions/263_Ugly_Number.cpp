@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://leetcode.com/problems/ugly-number/description/
+ *  Problem Name : 
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-12 23:40:59
  *  Language     : C++
