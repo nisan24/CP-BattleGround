@@ -1,13 +1,12 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/ugly-number/description/
- *  Problem Name : 
+ *  Problem Name : 263. Ugly Number
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-12 23:40:59
  *  Language     : C++
  * -------------------------------------------------
  */
-
 
 
 class Solution {
