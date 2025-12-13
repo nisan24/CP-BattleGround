@@ -70,4 +70,3 @@ int32_t main(int argc, char const *argv[])
 }
 
 // Accepted
-
