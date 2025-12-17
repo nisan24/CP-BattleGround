@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/search-in-a-binary-search-tree/description/
- *  Problem Name :  
+ *  Problem Name : 700. Search in a Binary Search Tree
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-17 22:35:30
  *  Language     : C++
