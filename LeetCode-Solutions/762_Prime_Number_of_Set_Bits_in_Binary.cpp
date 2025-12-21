@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/
- *  Problem Name :  
+ *  Problem Name : 762. Prime Number of Set Bits in Binary Representation
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-21 20:29:55
  *  Language     : C++
