@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/minimum-absolute-difference/description/
- *  Problem Name :  
+ *  Problem Name : 1200. Minimum Absolute Difference
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-27 21:12:51
  *  Language     : C++
@@ -9,7 +9,7 @@
  */
 
 
- 
+
 
 
 class Solution {
