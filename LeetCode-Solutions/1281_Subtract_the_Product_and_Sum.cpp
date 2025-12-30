@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
- *  Problem Name :  
+ *  Problem Link : https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
+ *  Problem Name : 1281. Subtract the Product and Sum of Digits of an Integer
  *  Author       : Nisan Hossain
  * Created At   : 2025-12-30 22:07:16
  *  Language     : C++
