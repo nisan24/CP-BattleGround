@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/flipping-an-image/description/
- *  Problem Name :  
+ *  Problem Name : 832. Flipping an Image
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-02 21:13:41
  *  Language     : C++
