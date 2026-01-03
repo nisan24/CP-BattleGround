@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/self-dividing-numbers/description/
- *  Problem Name :  
+ *  Problem Name : 728. Self Dividing Numbers
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-03 20:57:09
  *  Language     : C++
