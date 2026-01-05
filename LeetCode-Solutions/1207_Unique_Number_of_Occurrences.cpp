@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/unique-number-of-occurrences/description/
- *  Problem Name :  
+ *  Problem Name : 1207. Unique Number of Occurrences
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-05 22:40:56
  *  Language     : C++
