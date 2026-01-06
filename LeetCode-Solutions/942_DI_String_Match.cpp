@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/di-string-match/description/
- *  Problem Name :  
+ *  Problem Name : 942. DI String Match
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-06 21:33:30
  *  Language     : C++
