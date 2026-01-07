@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/range-sum-of-bst/description/
- *  Problem Name :  
+ *  Problem Name : 938. Range Sum of BST
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-07 23:54:40
  *  Language     : C++
