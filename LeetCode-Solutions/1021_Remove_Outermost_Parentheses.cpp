@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
+ *  Problem Link : https://leetcode.com/problems/remove-outermost-parentheses/description/
  *  Problem Name :  
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-09 21:39:36
