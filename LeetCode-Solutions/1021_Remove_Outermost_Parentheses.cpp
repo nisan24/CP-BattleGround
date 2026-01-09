@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/remove-outermost-parentheses/description/
- *  Problem Name :  
+ *  Problem Name : 1021. Remove Outermost Parentheses
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-09 21:39:36
  *  Language     : C++
