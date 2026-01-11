@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
- *  Problem Name :  
+ *  Problem Name : 1365. How Many Numbers Are Smaller Than the Current Number
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-11 21:56:13
  *  Language     : C++
