@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/transpose-matrix/
- *  Problem Name :  
+ *  Problem Name : 867. Transpose Matrix
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-12 23:04:31
  *  Language     : C++
