@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
- *  Problem Name :  
+ *  Problem Name : 1464. Maximum Product of Two Elements in an Array
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-14 22:30:35
  *  Language     : C++
