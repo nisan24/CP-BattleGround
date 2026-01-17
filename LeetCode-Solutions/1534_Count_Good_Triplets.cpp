@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/count-good-triplets/
- *  Problem Name :  
+ *  Problem Name : 1534. Count Good Triplets
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-17 21:15:44
  *  Language     : C++
