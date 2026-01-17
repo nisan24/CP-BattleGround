@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
+ *  Problem Link : https://leetcode.com/problems/count-good-triplets/
  *  Problem Name :  
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-17 21:15:44
