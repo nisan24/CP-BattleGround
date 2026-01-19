@@ -8,7 +8,6 @@
  * -------------------------------------------------
  */
 
-
 # Write your MySQL query statement below
 
 SELECT u.name, SUM(t.amount) AS balance
