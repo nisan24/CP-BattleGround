@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/bank-account-summary-ii/
- *  Problem Name :  
+ *  Problem Name : 1587. Bank Account Summary II
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-19 16:41:25
  *  Language     : C++
