@@ -1,7 +1,7 @@
 /*
  * -------------------------------------------------
  *  Problem Link : https://leetcode.com/problems/number-of-good-pairs/
- *  Problem Name :  
+ *  Problem Name : 1512. Number of Good Pairs
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-23 20:58:37
  *  Language     : C++
