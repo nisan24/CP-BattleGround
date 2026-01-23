@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
+ *  Problem Link : https://leetcode.com/problems/number-of-good-pairs/
  *  Problem Name :  
  *  Author       : Nisan Hossain
  * Created At   : 2026-01-23 20:58:37
