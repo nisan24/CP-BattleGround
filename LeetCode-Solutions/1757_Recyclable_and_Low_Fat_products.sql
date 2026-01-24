@@ -1,6 +1,6 @@
 /*
  * -------------------------------------------------
- *  Problem Link : 
+ *  Problem Link : https://leetcode.com/problems/recyclable-and-low-fat-products/
  *  Problem Name : 
  *  Author       : Nisan Hossain
  *  Created At   : 2026-01-24 19:55:47
