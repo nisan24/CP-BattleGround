@@ -5,7 +5,6 @@
  *  Author       : Nisan Hossain
  * Created At   : 2025-10-06 22:38:14
  *  Language     : C++
- * -------------------------------------------------
  */
 
 class Solution {
