@@ -32,4 +32,4 @@ public:
 };
 
 // Accepted 
-//&-+vmh g
+//&-+vmh g s
