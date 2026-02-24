@@ -27,4 +27,4 @@ public:
 };
 
 // Accepted
-// sd m k
+// sd m kx
