@@ -40,4 +40,4 @@ public:
 };
 
 // Accepted
-k
+// k u
