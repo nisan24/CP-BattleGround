@@ -36,4 +36,4 @@ private:
 };
 
 // Accepted
-// s d
+// s d s
