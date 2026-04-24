@@ -37,4 +37,4 @@ public:
 };
 
 // Accepted
-// j sw l pk s v
+// q
