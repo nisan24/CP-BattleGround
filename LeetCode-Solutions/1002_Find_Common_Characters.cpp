@@ -29,7 +29,4 @@ public:
 };
 
 // Accepted
-//-৳ ৳+# jjf
-// g e
-// h i fyj l o o
-// jh l
+// y
