@@ -38,5 +38,4 @@ public:
 };
 
 // Accepted
-// asldfk
-// j
+// lkk
