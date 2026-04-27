@@ -23,5 +23,4 @@ public:
 };
 
 // Accepted
-// k l k
-// j i wh
+// w
