@@ -16,6 +16,4 @@ WHERE author_id = viewer_id
 ORDER BY author_id;
 
 # Accepted
-#dj
-#llk ha
-# dh ah
+# r
