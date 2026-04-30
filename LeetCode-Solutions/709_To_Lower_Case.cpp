@@ -18,4 +18,4 @@ public:
 };
 
 // Accepted
-// j d s k i
+// q
