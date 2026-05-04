@@ -41,4 +41,4 @@ private:
 };
 
 // Accepted
-// bsgb d
+// g
