@@ -34,5 +34,4 @@ public:
 };
 
 // Accepted
-//&*
-//-৳ sd
+// hs
