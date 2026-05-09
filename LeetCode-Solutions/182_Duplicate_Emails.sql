@@ -14,5 +14,4 @@ GROUP BY email
 HAVING count(email) > 1;
 
 # Accepted
-#lk
-#lk.sadf sd
+# w
