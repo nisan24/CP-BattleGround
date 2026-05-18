@@ -17,4 +17,4 @@ WHERE id NOT IN (
 );
 
 # Accepted
-#hjh u sa
+# g
