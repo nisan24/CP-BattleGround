@@ -34,4 +34,4 @@ public:
 };
 
 // Accepted
-// 
+// g
