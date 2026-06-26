@@ -18,8 +18,4 @@ GROUP BY u.account, u.name
 HAVING balance > 10000;
 
 
-# Accepted
-
-
-#jio
-
+# Accepted
