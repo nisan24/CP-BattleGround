@@ -21,4 +21,4 @@ public:
 };
 
 // Accepted
-// qqdz
+// s
