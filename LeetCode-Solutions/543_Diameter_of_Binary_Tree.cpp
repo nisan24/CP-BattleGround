@@ -45,5 +45,4 @@ private:
 };
 
 // Accepted
-// mbgn nj mk
-// m b
+// a
