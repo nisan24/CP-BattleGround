@@ -18,4 +18,4 @@ public:
 };
 
 // Accepted
-// qt
+// qtk
