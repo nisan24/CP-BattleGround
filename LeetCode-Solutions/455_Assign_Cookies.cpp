@@ -30,4 +30,4 @@ public:
 };
 
 // Accepted
-// s sd xsz
+// y
