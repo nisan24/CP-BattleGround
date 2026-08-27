@@ -27,4 +27,4 @@ public:
 };
 
 // Accepted
-// tsdd
+// d
