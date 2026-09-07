@@ -23,4 +23,4 @@ public:
 };
 
 // Accepted
-// w n
+// q
