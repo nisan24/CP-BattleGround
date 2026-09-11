@@ -17,4 +17,4 @@ public:
 };
 
 // Accepted
-// sse
+// w
