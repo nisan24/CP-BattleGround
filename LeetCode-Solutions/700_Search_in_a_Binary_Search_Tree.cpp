@@ -38,4 +38,4 @@ public:
 };
 
 // Accepted
-// w
+// ws
