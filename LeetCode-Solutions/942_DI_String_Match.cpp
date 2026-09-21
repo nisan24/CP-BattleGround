@@ -27,4 +27,4 @@ public:
 };
 
 // Accepted
-// laqw
+// 1
