@@ -32,4 +32,4 @@ public:
 };
 
 // Accepted 
-// s
+// sti
