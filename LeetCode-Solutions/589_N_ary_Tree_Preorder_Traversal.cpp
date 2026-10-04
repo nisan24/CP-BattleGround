@@ -49,4 +49,4 @@ public:
 };
 
 // Accepted
-// hs
+// hs1s
