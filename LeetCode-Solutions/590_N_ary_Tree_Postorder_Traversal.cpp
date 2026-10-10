@@ -51,4 +51,4 @@ public:
 };
 
 // Accepted
-// etfddd
+// 1
