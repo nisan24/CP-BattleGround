@@ -32,4 +32,4 @@ public:
 };
 
 // Accepted
-// e'we4w
+// 1
