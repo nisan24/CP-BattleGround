@@ -23,4 +23,4 @@ public:
 };
 
 // Accepted
-// 154e
+// 5
