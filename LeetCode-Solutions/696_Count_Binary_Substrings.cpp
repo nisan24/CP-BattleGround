@@ -32,4 +32,4 @@ public:
 };
 
 // Accepted
-// 15241
+// 0
