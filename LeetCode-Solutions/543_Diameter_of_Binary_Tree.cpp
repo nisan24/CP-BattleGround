@@ -45,4 +45,4 @@ private:
 };
 
 // Accepted
-// aa123
+// 5
