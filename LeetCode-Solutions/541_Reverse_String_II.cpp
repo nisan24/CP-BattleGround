@@ -27,4 +27,4 @@ public:
 };
 
 // Accepted
-// dg3ggt
+// 11
