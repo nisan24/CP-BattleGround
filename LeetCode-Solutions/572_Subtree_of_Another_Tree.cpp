@@ -47,4 +47,4 @@ public:
 };
 
 // Accepted
-// 3d
+// 3ds
